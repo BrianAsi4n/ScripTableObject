@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14d2c5986429fa046b00f3a837113162, type: 3}
+  m_Name: basic_enemy_3
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 628486920cb585745b1f18d6ab53b7da, type: 3}
+  animatorController: {fileID: 9100000, guid: a7d2b6c23f03d50498074c29aeaf7247, type: 2}
+  charaterPrefab: {fileID: -7842205574280037518, guid: 4594fe7bb70748b44b81546063b2866c, type: 3}
+  maxHP: 15
+  movementSpeed: 3
+  attackSpeed: 0
+  damage: 0
+  attackType: 0
+  isMelee: 0
