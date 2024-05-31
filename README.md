@@ -1,0 +1,2 @@
+# ScripTableObject
+file unity
